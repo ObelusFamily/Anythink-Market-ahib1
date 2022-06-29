@@ -10,4 +10,15 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?
+
+
+make sure the docker app is running on your mac.
+
+run the docker compose up on the root of the project
+
+on the FE, make sure to migrate if needed
+
+the username is only small english letters, no verbal error though
+
+_
